@@ -17,9 +17,9 @@
 - [Conclusion](#conclusion)
 
 ## Contributors
-- [**Mahir Shahriar Tamim**](https://github.com/mahirshahriar) (2131377042): Back-end development, database management, security implementation
+- [**Mahir Shahriar Tamim**](https://github.com/mahirshahriar1) (2131377042): Back-end development, database management, security implementation
 - [**Sahil Yasar**](https://github.com/BunnyWarlock/) (2122060642): Front-end Development, testing, deployment, documentation
-- [**Shahriar Ratul**](https://github.com/shahriarratul) (2111514642): Front-end development, UI/UX design
+- [**Shahriar Ratul**](https://github.com/dazed-n-razed) (2111514642): Front-end development, UI/UX design
 
 
 ## Overview
