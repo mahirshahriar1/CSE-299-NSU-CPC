@@ -1,0 +1,24 @@
+@media print {
+  * {
+    -webkit-print-color-adjust: exact;
+  }
+
+  body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background: none;
+  }
+
+  #printableArea {
+    border: none;
+    width: 220mm;
+    min-height: 297mm;
+    margin: auto;
+    box-shadow: none; 
+  }
+
+  #hideArea {
+    display: none;
+  }
+}
